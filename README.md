@@ -1,6 +1,4 @@
 # scaler-open-source-september-challenge_No-23
-## Welcome to Challenge 23
-
 Welcome to the 23rd Challenge 
 
 Today we will learn how to work with GitHub pages!
